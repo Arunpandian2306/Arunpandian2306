@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java/Data Analysis
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...https:www.linkedin.com/in/arunpandian-j-61919b211
+- 📫 How to reach me ...https://www.linkedin.com/in/arunpandian-j-61919b211
 
 
 
