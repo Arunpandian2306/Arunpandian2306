@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arunpandian2306
-- 👀 I’m interested in Java/Data Analysis
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in node.js
+- 🌱 I’m currently Backend Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.linkedin.com/in/arunpandian-j-61919b211
 
