@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Node.js | TypeScript | AWS | PostgreSQL</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arunpandian-j-61919b211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:arunpandian2306@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Theni,%20Tamil%20Nadu,%20India-informational" />
 </p>
