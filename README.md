@@ -102,7 +102,6 @@ I'm a Backend Developer with **3+ years of experience** building Node.js backend
 ### 📫 Reach Me
 
 - 📧 **Email:** arunpandian2306@gmail.com
-- 📞 **Phone:** +91 97867 05931
 - 📍 **Location:** Theni, Tamil Nadu, India
 
 <p align="center"><i>Available remotely, self-driven, and always shipping.</i></p>
