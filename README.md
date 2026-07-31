@@ -91,7 +91,7 @@ I'm a Backend Developer with **3+ years of experience** building Node.js backend
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arunpandian2306&show_icons=true&theme=default&hide_border=true" alt="Arun's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arunpandian2306&show_icons=true&theme=default&hide_border=true" alt="Arun's GitHub stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunpandian2306&hide_border=true" alt="GitHub Streak" />
