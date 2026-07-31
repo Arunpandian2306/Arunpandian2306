@@ -63,9 +63,9 @@ I'm a Backend Developer with **3+ years of experience** building Node.js backend
 
 | Project | Description | Stack |
 |---|---|---|
-| **[LystCRM]** | CRM platform with Deals/Product/Order/Currency modules, Freshsales data migration, WhatsApp integration, SQS-based async processing, and **Brevo integration** for automated customer communication | Node.js, MySQL, AWS SQS, WhatsApp API, Brevo API |
-| **[SparesCNX]** | Real-time marine spares & inventory tracking (RTLS) ERP integration platform using IIoT technologies | PostgreSQL, CouchDB, Elasticsearch, RabbitMQ |
-| **[Snap2Text](https://arunpandian2306.github.io/Nearby-Amenities-Locator/src/html/map.html)** | Personal app live on Google Play — OCR text extraction, barcode/QR scanning & generation, PDF split/merge | React Native |
+| **LystCRM** | CRM platform with Deals/Product/Order/Currency modules, Freshsales data migration, WhatsApp integration, SQS-based async processing, and **Brevo integration** for automated customer communication | Node.js, MySQL, AWS SQS, WhatsApp API, Brevo API |
+| **SparesCNX** | Real-time marine spares & inventory tracking (RTLS) ERP integration platform using IIoT technologies | PostgreSQL, CouchDB, Elasticsearch, RabbitMQ |
+| **[Snap2Text](https://play.google.com/store/apps/details?id=com.arunpandian23.Snap2Text)** | Personal app live on Google Play — OCR text extraction, barcode/QR scanning & generation, PDF split/merge | React Native |
 | **[Nearby Amenities Locator](https://arunpandian2306.github.io/Nearby-Amenities-Locator/src/html/map.html)** | Location-based app to discover nearby hospitals, schools, hotels, and fuel stations by category and distance | JavaScript |
 
 ---
