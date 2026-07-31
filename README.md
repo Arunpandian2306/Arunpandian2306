@@ -67,8 +67,6 @@ I'm a Backend Developer with **3+ years of experience** building Node.js backend
 | **[SparesCNX](#)** | Real-time marine spares & inventory tracking (RTLS) ERP integration platform using IIoT technologies | PostgreSQL, CouchDB, Elasticsearch, RabbitMQ |
 | **[Snap2Text](#)** | Personal app live on Google Play — OCR text extraction, barcode/QR scanning & generation, PDF split/merge | React Native |
 | **[Nearby Amenities Locator](https://github.com/Arunpandian2306/Nearby-Amenities-Locator)** | Location-based app to discover nearby hospitals, schools, hotels, and fuel stations by category and distance | JavaScript |
-| **[Ecommerce](https://github.com/Arunpandian2306/Ecommerce)** | Ecommerce application | JavaScript |
-| **[Healthcare_Management](https://github.com/Arunpandian2306/Healthcare_Management)** | Healthcare management system | JavaScript |
 
 ---
 
